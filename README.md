@@ -13,7 +13,7 @@ The Intraday Trading Advisor is a powerful and intuitive tool that provides real
 
 - Risk Management: It provides risk management strategies by setting stop-loss and take-profit levels to help traders effectively manage their positions.
 
-- Portfolio Tracking: Traders can track their portfolio and receive personalized alerts for price movements, news updates, and important events related to their holdings.
+- Portfolio Tracking: Traders can track their portfolios and receive personalized alerts for price movements, news updates, and important events related to their holdings.
 
 - Interactive Visualization: The advisor offers interactive charts and visualizations to help traders understand the historical performance and trends of stocks.
 
@@ -29,7 +29,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 Configure API Keys:
 
-Sign up for a free account at XYZ API and obtain an API key.
+Sign up for a free account at Google Finance API or Yahoo Finance API and obtain an API key.
 Create a file named config.py in the project directory.
 Add the following code to config.py and replace 'YOUR_API_KEY' with your actual API key:
 
