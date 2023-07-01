@@ -72,7 +72,5 @@ Requests - Simplifying HTTP requests and API integration.
 Contact
 For any inquiries or feedback, please reach out to us at contact@tradingadvisor.com.
 
-<p align="center">
-  <img src="https://github.com/IronAvenger11-prog/Intraday-Trading-advisor/blob/main/images/trading_advisor_screenshot.png" alt="Trading Advisor Screenshot">
-</p>
+
 ```
