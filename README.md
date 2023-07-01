@@ -1,8 +1,3 @@
-# Intraday-Trading-advisor
-
-<p align="center">
-  <img src="https://github.com/IronAvenger11-prog/Intraday-Trading-advisor/blob/main/images/trading_advisor_logo.png" alt="Trading Advisor Logo">
-</p>
 
 # Intraday Trading Advisor
 
@@ -42,17 +37,16 @@ API_KEY = 'YOUR_API_KEY'
 Run the application:
 
 
-python main.py
-Usage
-Launch the application by running main.py.
+Usage:
+-Launch the application by running main.py.
 
-Enter the stock symbol or company name you want to analyze.
+-Enter the stock symbol or company name you want to analyze.
 
-The trading advisor will fetch real-time data, perform analysis, and provide recommendations based on technical indicators.
+-The trading advisor will fetch real-time data, perform analysis, and provide recommendations based on technical indicators.
 
-Follow the provided recommendations for making informed trading decisions.
+-Follow the provided recommendations for making informed trading decisions.
 
-Monitor the portfolio and receive alerts for important events to stay updated on your investments.
+-Monitor the portfolio and receive alerts for important events to stay updated on your investments.
 
 Contributing
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
