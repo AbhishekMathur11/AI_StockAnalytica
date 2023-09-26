@@ -20,4 +20,5 @@ Step 5: Model Accuracy
 
 Evaluate the model's accuracy by calculating the mean squared error (MSE) and presenting it as a percentage. This metric provides a clear measure of the model's performance, boosting confidence in navigating the stock market's complexities.
 
+For the detailed procedure, check the Stocks Updated jupyter notebook
 ```
