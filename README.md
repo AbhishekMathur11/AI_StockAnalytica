@@ -1,4 +1,4 @@
-##Stock Data Analysis and Prediction with Deep Learning##
+#Stock Data Analysis and Prediction with Deep Learning
 
 Step 1: Data Extraction
 
