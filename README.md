@@ -1,3 +1,5 @@
+##Stock Data Analysis and Prediction with Deep Learning##
+
 Step 1: Data Extraction
 
 Retrieve historical stock data effortlessly using the yfinance library from Yahoo Finance. Access data dating back to January 2010 for in-depth trend analysis.
